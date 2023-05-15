@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 Background in Computational Linguistics
 - 🤖 Passionate about AI, cognitive systems and data 
 
-<h3 align="left">Languages and Tools:</h3>
-<a href=" <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+### Skills
+- 👩🏻‍💻 Python, R, C++, Matlab
+- 🤖 PyTorch, Tensorflow, Keras, pandas, NLTK, Spacy, Scikit-learn 
+- 💿 SQL, PostgreSQL
+- 💡 git, Kubernetes, Docker
+
+### Let's connect
+<a href="https://www.linkedin.com/in/iuliia-mozhina-ab5a29200/" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn" width="40" height="40"/> </a>
 
 
