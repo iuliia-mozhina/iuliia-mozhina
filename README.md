@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤖 Passionate about AI, cognitive systems and data 
 
 ### Skills
-- 👩🏻‍💻 Python, R, C++, Matlab
+- 👩🏻‍💻 Python, R, Java, C++, Matlab
 - 🤖 PyTorch, Tensorflow, Keras, pandas, NLTK, Spacy, Scikit-learn 
 - 💿 SQL, PostgreSQL
 - 💡 git, Kubernetes, Docker
